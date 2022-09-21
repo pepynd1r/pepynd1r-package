@@ -1,7 +1,7 @@
 {
   "name": "pepynd1r-package",
   "main": "./lib/pepynd1r-package",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
