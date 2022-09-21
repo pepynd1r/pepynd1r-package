@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "pepynd1r-package:toggle"
   },
-  "repository": "https://github.com/atom/pepynd1r-package",
+  "repository": "https://github.com/pepynd1r/pepynd1r-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
