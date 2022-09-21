@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pepynd1r-package",
+        "command": "pepynd1r-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pepynd1r-package",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pepynd1r-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
